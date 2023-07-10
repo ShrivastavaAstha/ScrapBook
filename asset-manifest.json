@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Task-Management/static/css/main.c8db59a5.css",
-    "main.js": "/Task-Management/static/js/main.1e18800e.js",
-    "index.html": "/Task-Management/index.html",
-    "main.c8db59a5.css.map": "/Task-Management/static/css/main.c8db59a5.css.map",
-    "main.1e18800e.js.map": "/Task-Management/static/js/main.1e18800e.js.map"
+    "main.css": "/ScrapBook/static/css/main.e6866750.css",
+    "main.js": "/ScrapBook/static/js/main.22dd3111.js",
+    "index.html": "/ScrapBook/index.html",
+    "main.e6866750.css.map": "/ScrapBook/static/css/main.e6866750.css.map",
+    "main.22dd3111.js.map": "/ScrapBook/static/js/main.22dd3111.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8db59a5.css",
-    "static/js/main.1e18800e.js"
+    "static/css/main.e6866750.css",
+    "static/js/main.22dd3111.js"
   ]
 }
